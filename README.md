@@ -8,10 +8,15 @@ Description - An address book app, GUI made using Java Swing.
     Part of our User Interface Design Course (HCI - Human Computer Interaction).
 
 # Implementations:
-1. User can Add new, Edit/Update and Delete existing, and View all the records stored in one simple interface.
+1. User can Add New, Edit/Update and Delete existing, and View all the records stored in one simple, nice clean interface.
 2. User is notified using visual cues of the mandatory fields, the field format, incorrect & correct field data, his progress and helpful tooltips.
+3. Followed good design principles for a good UI.
+4. Used a MVC architecture for the underlying code.
+5. Used flat files for storing the records. Used serilizable Person objects (almost like Java Beans) to store the info.
 
-For all the implementation: See  the screenshot folder for details.
+For all the implementation: See the screenshot folder for details.
+
+How to Run - Copy the src folder, compile and run the 'MainClass.java'.
 
 
 Screenshot of Main Screen:
