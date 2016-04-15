@@ -1,6 +1,5 @@
 /*
  * Name - Dhruv Arora
- * UTD ID :  - 2021212546
  * Date : 09/14/2014
  * Purpose : Assignment 1 ; Class CS-6301-015  
  */

@@ -1,6 +1,5 @@
 /*
  * Name - Dhruv Arora
- * UTD ID :  - 2021212546
  * Date : 09/14/2014
  * Purpose : Assignment 1 ; Class CS-6301-015  
  */
@@ -54,7 +53,7 @@ public class FileIO {
 			
 //			System.out.println("\tSome Sample Records will be created");
 			// Creating some default records
-			saveRecord("Dhruv","","Arora","M","dhruvstrz@gmail.com","+123456","Chatham","","Dallas","TX","12345","USA");
+			saveRecord("Dragon","","Hunter","M","dragon@gmail.com","+199999999","Imaginary","","Dallas","TX","12345","USA");
 			saveRecord("Harry","J","Potter","M","harry@hogwarts.com","+000","Hogwarts","","Unknown","UK","000-UK","Unknown");
 			saveRecord("Ron","","Weasely","M","RON@hogwarts.COM","+123","Hogwarts","","Unknown","UK","000-UK","Unknown");
 			saveRecord("Hermoine","","Granger","F","Hermoine.Granger@hogwarts.com","+0001","Hogwarts School of Witchcraft","","Unknown","UK","000-UK","UnK");

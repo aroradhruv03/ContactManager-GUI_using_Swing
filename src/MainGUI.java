@@ -2,6 +2,7 @@
  * @Author: Dhruv Arora
  * @Date : 09/14/2014
  *
+ * Contains all the function for the main GUI.
  */
 
 
